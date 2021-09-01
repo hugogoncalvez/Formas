@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414534300504",
+    "project_id": "figuras-717c2",
+    "storage_bucket": "figuras-717c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414534300504:android:ff44cfc300d840dd16eb2d",
+        "android_client_info": {
+          "package_name": "com.example.desafio2_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414534300504-u3s5t8g51f35t6ul3m51epb95srhit65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK-F7jwPCOYmZojjzB0R78i9PIfsDdu2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414534300504-u3s5t8g51f35t6ul3m51epb95srhit65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
